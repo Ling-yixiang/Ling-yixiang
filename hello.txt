@@ -5,7 +5,11 @@
 
 master test
 hot-fix test
+<<<<<<< HEAD
 6.1号修改2222222
 master分支
 master
+=======
+6-1号修改提交测试
+>>>>>>> dev
 >>>>>>> hot-fix
